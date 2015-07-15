@@ -6,3 +6,6 @@ main.dSYM
 
 # C object files
 *.o
+
+# PyCharm
+.idea
