@@ -1,0 +1,8 @@
+# executive
+main
+
+# compiled libraries
+main.dSYM
+
+# C object files
+*.o
