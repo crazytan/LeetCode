@@ -24,5 +24,6 @@ class Solution:
 if __name__ == "__main__":
     s = Solution()
     nums = raw_input("enter the list: ").split(',')
-    map(lambda x: int(x), nums)
+    nums = \
+        map(lambda x: int(x), nums)
     print s.removeDuplicates(nums)
