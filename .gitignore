@@ -9,3 +9,5 @@ main.dSYM
 
 # PyCharm
 .idea
+
+.DS_Store
